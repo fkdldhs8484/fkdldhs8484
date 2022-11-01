@@ -29,7 +29,7 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
-</p>### :🌭: 프로그래밍 & 마크업 언어
+</p>🌭: 프로그래밍 & 마크업 언어
 <p>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
