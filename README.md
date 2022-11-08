@@ -62,3 +62,19 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </p>
 
+### 리액트 사이트1 => 1. 퍼블리싱 => 2. 데이터
+
+- 리액트 사이트 ""
+
+### 뷰 사이트1 => 1. 퍼블리싱 -> 2. 데이터 (숙제)
+
+- 뷰 사이트 "https://vueclass1-ac476.web.app/"
+
+### 리액트 api 사이트1 => 로우터 => api 불러오기 => Top10(이미지 슬라이드 불러오기 (숙제))
+
+- 리액트 api 사이트 ""
+
+### 뷰 api 사이트1 => 로우터
+
+- 뷰 api 사이트 "https://vue-api1-9aafe.web.app/"
+
